@@ -1,2 +1,2 @@
-# draw
-个人练习案例
+# Prastice
+github初试
